@@ -1,0 +1,22 @@
+{
+  "name": "basic-node-operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwenamokgohlwa/basic-node-operations.git"
+  },
+  "keywords": [
+    "bash"
+  ],
+  "author": "Kwena Mokgohlwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwenamokgohlwa/basic-node-operations/issues"
+  },
+  "homepage": "https://github.com/kwenamokgohlwa/basic-node-operations#readme"
+}
